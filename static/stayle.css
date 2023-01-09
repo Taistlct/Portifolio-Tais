@@ -105,6 +105,7 @@ section#inicio {
 @media only screen and (max-width: 480px) {
     inicio {
       width: 100%;
+      height: 100vh
     }
   }
 

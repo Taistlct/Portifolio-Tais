@@ -157,12 +157,16 @@ i.menu-mobile {
     i.menu-mobile{
         display: flex;
     }
+    section#inicio {
+        background-attachment: scroll;
+    }
     section#inicio h2{
         font-size: 3.5rem;
+        
     }
     section#inicio span#subtitle{
-        margin-right: 0;
-        font-size: 1rem;
+        margin-right: 1;
+        font-size: 1rem;   
     }
     #main{
         margin-left: 0;
